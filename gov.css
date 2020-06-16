@@ -1,0 +1,32 @@
+*{
+    background-color: orangered;
+}
+h2{
+    text-align: center;
+}
+input{
+    padding: 2px;
+    border: 2px solid black;
+}
+::placeholder{
+    padding: 5px;
+    color: coral;
+}
+form{
+    font-size: 20px;
+}
+.submit{
+    background-color: blue;
+    color: white;
+    border-radius: 2px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 16px;
+    margin-left: 50px;
+    
+}
+.jump{
+    font-size: 10px;
+    margin-left: 15 px;
+}
